@@ -115,22 +115,29 @@ def get_current_user(credentials: HTTPAuthorizationCredentials = Depends(securit
 
 from fastapi.responses import HTMLResponse, FileResponse, Response
 
+# Setup relative paths for frontend files
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+FRONTEND_DIR = os.path.join(BASE_DIR, "..", "frontend")
+
 # Static Files serving endpoints directly at root for browser ease
 @app.get("/")
 def read_index():
-    with open("index.html", "r", encoding="utf-8") as f:
+    path = os.path.join(FRONTEND_DIR, "index.html")
+    with open(path, "r", encoding="utf-8") as f:
         content = f.read()
     return Response(content=content, media_type="text/html", headers={"Cache-Control": "no-cache, no-store, must-revalidate"})
 
 @app.get("/styles.css")
 def read_css():
-    with open("styles.css", "r", encoding="utf-8") as f:
+    path = os.path.join(FRONTEND_DIR, "styles.css")
+    with open(path, "r", encoding="utf-8") as f:
         content = f.read()
     return Response(content=content, media_type="text/css", headers={"Cache-Control": "no-cache, no-store, must-revalidate"})
 
 @app.get("/app.js")
 def read_js():
-    with open("app.js", "r", encoding="utf-8") as f:
+    path = os.path.join(FRONTEND_DIR, "app.js")
+    with open(path, "r", encoding="utf-8") as f:
         content = f.read()
     return Response(content=content, media_type="application/javascript", headers={"Cache-Control": "no-cache, no-store, must-revalidate"})
 
