@@ -1,0 +1,13 @@
+{
+  "name": "placement-prep-agent",
+  "version": "1.0.0",
+  "description": "AI Placement Preparation Agent powered by LangGraph, Pinecone, and Gemini",
+  "main": "main.py",
+  "scripts": {
+    "start": "python -m uvicorn main:app --host 0.0.0.0 --port 8000 --reload",
+    "test": "python test_session.py"
+  },
+  "dependencies": {},
+  "author": "Google DeepMind pair-programmer",
+  "license": "ISC"
+}

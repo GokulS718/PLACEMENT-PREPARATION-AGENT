@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>PlacementAI — Placement Prep & Assessment Portal</title>
+  <meta name="description" content="AI Placement Preparation Agent. Practice coding, aptitude, system design, and behavioral questions with immediate grading rubrics and study plans." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <!-- Header / Navigation -->
+  <nav class="navbar" id="navbar" style="display:none">
+    <div class="nav-container">
+      <div class="nav-logo">
+        <span class="logo-icon">🎓</span>
+        <span>PlacementAI Portal</span>
+      </div>
+      <div class="user-greeting" id="user-greeting">Welcome, Student</div>
+      <button class="btn-logout" onclick="handleLogout()">Logout</button>
+    </div>
+  </nav>
+
+  <!-- Login/Sign-up Overlay -->
+  <div class="auth-overlay" id="auth-overlay">
+    <div class="auth-card">
+      <div class="auth-header">
+        <div class="auth-logo">PlacementAI Coach</div>
+        <h2>Sign Up for Placement Prep</h2>
+        <p>Register your student profile to choose subjects, solve coding problems, and receive personalized feedback.</p>
+      </div>
+      <div class="auth-form">
+        <div class="form-group">
+          <label for="auth-name">Full Name</label>
+          <input type="text" id="auth-name" placeholder="e.g. Rahul Kumar" required />
+        </div>
+        <div class="form-group">
+          <label for="auth-email">Email Address *</label>
+          <input type="email" id="auth-email" placeholder="e.g. rahul@example.com" required />
+        </div>
+        <div class="form-group">
+          <label for="auth-password">Password *</label>
+          <input type="password" id="auth-password" placeholder="••••••••" required />
+        </div>
+        <button class="btn-auth" onclick="handleSignUp()">Register / Login →</button>
+        
+        <div style="text-align:center; margin:1rem 0; color:var(--text-muted); font-size:0.9rem;">OR</div>
+        
+        <button class="btn-google-auth" onclick="handleGoogleSignIn()" style="display:flex; align-items:center; justify-content:center; gap:0.5rem; width:100%; padding:0.75rem; border:1px solid #dadce0; background:white; color:#3c4043; font-family:'Roboto', sans-serif; border-radius:8px; cursor:pointer; font-weight:500; transition:background-color 0.2s;">
+          <svg width="18" height="18" viewBox="0 0 18 18" style="display:block;">
+            <path fill="#4285F4" d="M17.64 9.2c0-.63-.06-1.25-.16-1.84H9v3.47h4.84c-.21 1.12-.84 2.07-1.79 2.7v2.24h2.9c1.69-1.55 2.69-3.83 2.69-6.57z"/>
+            <path fill="#34A853" d="M9 18c2.43 0 4.47-.8 5.96-2.18l-2.9-2.24c-.8.54-1.83.86-3.06.86-2.35 0-4.34-1.58-5.05-3.71H.95v2.3A9 9 0 0 0 9 18z"/>
+            <path fill="#FBBC05" d="M3.95 10.73A5.4 5.4 0 0 1 3.6 9c0-.6.1-1.19.29-1.73V4.97H.95A9 9 0 0 0 0 9c0 1.61.4 3.14 1.13 4.5l2.82-2.27z"/>
+            <path fill="#EA4335" d="M9 3.58c1.32 0 2.5.45 3.44 1.35L15 2.4A9 9 0 0 0 .95 4.97l2.9 2.3C4.56 5.15 6.55 3.58 9 3.58z"/>
+          </svg>
+          Continue with Google
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Subject Selection Dashboard -->
+  <section class="dashboard-selection" id="dashboard-selection" style="display:none">
+    <div class="dashboard-header">
+      <p class="dash-tag">Placement Practice Dashboard</p>
+      <h1 class="dash-title">Select Topic & Start Solving</h1>
+      <p class="dash-sub">Choose a placement subject. The Gemini RAG agent will query standard question sets to help you improve.</p>
+    </div>
+    
+    <div class="subject-grid">
+      <div class="subject-card" onclick="selectSubject('Coding')">
+        <div class="sub-icon">💻</div>
+        <h3>Coding & Data Structures</h3>
+        <p>Solve Array, LinkedList, Tree, and DP challenges from <strong>CrackYourPlacement</strong> & <strong>FAANG</strong> sets.</p>
+        <span class="sub-badge">Practice Coding →</span>
+      </div>
+      
+      <div class="subject-card" onclick="selectSubject('Aptitude')">
+        <div class="sub-icon">📝</div>
+        <h3>Aptitude & DB MCQs</h3>
+        <p>Solve logical reasoning, quantitative equations, and database metrics from the <strong>Prepmaster Dataset</strong>.</p>
+        <span class="sub-badge">Solve Quizzes →</span>
+      </div>
+      
+      <div class="subject-card" onclick="selectSubject('System Design')">
+        <div class="sub-icon">🏛️</div>
+        <h3>System Design & Core</h3>
+        <p>Master rate limiters, URL shorten architectures, scaling, and database indexes.</p>
+        <span class="sub-badge">Review Architectures →</span>
+      </div>
+      
+      <div class="subject-card" onclick="selectSubject('Behavioral')">
+        <div class="sub-icon">🤝</div>
+        <h3>HR & Behavioral rounds</h3>
+        <p>Solve HR questions using the STAR method for teamwork and conflict scenarios.</p>
+        <span class="sub-badge">Practice HR →</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- Split Problem-Solving Workspace -->
+  <section class="agent-section" id="agent-section" style="display:none">
+    <div class="back-link">
+      <button onclick="goBackToDashboard()" class="btn-back">← Back to Subjects Dashboard</button>
+    </div>
+    
+    <div class="workspace-layout">
+      <!-- Left Panel: Problem Statement & Reference Answer -->
+      <div class="workspace-panel panel-problem">
+        <div class="panel-header">
+          <h3>📌 <span id="active-subject-title">Coding</span> Challenge</h3>
+          <span class="difficulty-badge" id="problem-difficulty">Easy</span>
+        </div>
+        
+        <div class="panel-body">
+          <div class="problem-meta">
+            <span class="meta-tag" id="problem-topic">Topic: Array</span>
+            <span class="meta-tag" id="problem-company">Target: Amazon, Google</span>
+            <span class="meta-tag" id="ai-generated-badge" style="display:none; background-color: var(--color-primary); color: white;">✨ AI Generated</span>
+          </div>
+          
+          <div class="problem-statement" id="problem-statement">
+            Select a subject and click "Start Practice" to retrieve a challenge from the placement database.
+          </div>
+          
+          <!-- Hidden by default, unlocked upon submission to help students learn -->
+          <div class="reference-section" id="reference-section" style="display:none">
+            <h4>💡 Reference Answer & Explanation</h4>
+            <div class="reference-body" id="reference-body">
+              Submit your response on the right to unlock the detailed solution.
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Right Panel: Editor Area & Evaluation Feedback -->
+      <div class="workspace-panel panel-editor">
+        <!-- Settings/Config Form (Shows before starting) -->
+        <div id="prep-config-form">
+          <div class="panel-header">
+            <h3>⚙️ Preparation Settings</h3>
+          </div>
+          <div class="panel-body">
+            <!-- Coding specific -->
+            <div class="form-group" id="coding-language-group">
+              <label for="student-language">Programming Language</label>
+              <select id="student-language" class="form-control" style="width: 100%; padding: 0.75rem; border: 1px solid var(--border-color); border-radius: 6px; font-family: inherit;">
+                <option value="Java">Java</option>
+                <option value="Python">Python</option>
+                <option value="C++">C++</option>
+                <option value="C#">C#</option>
+                <option value="JavaScript">JavaScript</option>
+              </select>
+            </div>
+
+            <!-- Common -->
+            <div class="form-group">
+              <label>Target Company</label>
+              <div class="company-checkboxes" id="company-checkboxes">
+                <label><input type="checkbox" value="Google"> Google</label>
+                <label><input type="checkbox" value="Amazon"> Amazon</label>
+                <label><input type="checkbox" value="Microsoft"> Microsoft</label>
+                <label><input type="checkbox" value="Adobe"> Adobe</label>
+                <label><input type="checkbox" value="Oracle"> Oracle</label>
+                <label><input type="checkbox" value="Goldman Sachs"> Goldman Sachs</label>
+                <label><input type="checkbox" value="Walmart"> Walmart</label>
+                <label><input type="checkbox" value="TCS"> TCS</label>
+                <label><input type="checkbox" value="Infosys"> Infosys</label>
+                <label><input type="checkbox" value="Accenture"> Accenture</label>
+                <label><input type="checkbox" value="Cognizant"> Cognizant</label>
+                <label><input type="checkbox" value="Zoho"> Zoho</label>
+                <label><input type="checkbox" value="Freshworks"> Freshworks</label>
+                <label><input type="checkbox" value="PayPal"> PayPal</label>
+                <label><input type="checkbox" value="Flipkart"> Flipkart</label>
+                <label><input type="checkbox" value="PhonePe"> PhonePe</label>
+                <label><input type="checkbox" value="Swiggy"> Swiggy</label>
+                <label><input type="checkbox" value="Uber"> Uber</label>
+              </div>
+            </div>
+
+            <!-- Aptitude specific -->
+            <div class="form-group" id="aptitude-topics-group" style="display:none; background:var(--bg-secondary); padding:1rem; border-radius:8px;">
+              <label style="margin-bottom:0.5rem; display:block; color:var(--color-primary);">Major/Minor Topics for Selected Companies:</label>
+              <div id="dynamic-topics-list">Select a company to see topics.</div>
+            </div>
+
+            <!-- Coding specific -->
+            <div class="form-group" id="coding-resume-group">
+              <label for="student-resume">Resume details (Optional)</label>
+              <textarea id="student-resume" rows="3" placeholder="Paste your resume details here..."></textarea>
+            </div>
+
+            <!-- Behavioral specific -->
+            <div class="form-group" id="behavioral-upload-group" style="display:none;">
+              <label for="resume-upload">Upload Resume (PDF/DOCX) for ATS Check</label>
+              <input type="file" id="resume-upload" accept=".pdf,.docx" class="form-control" style="width: 100%; padding: 0.75rem; border: 1px solid var(--border-color); border-radius: 6px; font-family: inherit; background: white;" />
+              <div id="ats-analysis-loading" style="display:none; margin-top:0.5rem; font-size:0.9rem; color:var(--text-muted);">Analyzing resume...</div>
+            </div>
+
+            <!-- Common -->
+            <div class="prep-level-group" id="prep-difficulty-group">
+              <label>Difficulty level</label>
+              <div class="prep-levels">
+                <button class="prep-btn" id="prep-beginner" onclick="selectPrep('beginner')">🌱 Easy</button>
+                <button class="prep-btn" id="prep-intermediate" onclick="selectPrep('intermediate')">🔥 Medium</button>
+                <button class="prep-btn active" id="prep-advanced" onclick="selectPrep('advanced')">🚀 Hard</button>
+              </div>
+            </div>
+            
+            <button class="btn-workspace-start" onclick="startInterview()">
+              🚀 Proceed
+            </button>
+          </div>
+        </div>
+
+        <!-- Active Solver workspace (Hidden initially) -->
+        <div id="active-solver-workspace" style="display:none">
+          <div class="panel-header" style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
+            <h3>💻 Write Your Answer</h3>
+            
+            <!-- Pagination Controls (Coding Tab) -->
+            <div id="pagination-controls" style="display:none; align-items:center; gap:10px; background:var(--bg-secondary); padding:4px 12px; border-radius:20px; font-weight:500;">
+              <button onclick="prevQuestion()" style="background:none; border:none; cursor:pointer; font-size:1.2rem; color:var(--text-main);">&lt;</button>
+              <span id="pagination-text">1 of 10</span>
+              <button onclick="nextQuestion()" style="background:none; border:none; cursor:pointer; font-size:1.2rem; color:var(--text-main);">&gt;</button>
+            </div>
+            
+            <div class="timer" id="timer">Time Limit: 20:00</div>
+          </div>
+          <div class="panel-body editor-body">
+            <div style="text-align: right; margin-bottom: 0.5rem;">
+               <button id="btn-finish-summary" onclick="showFinalPerformanceSummary()" class="btn-back" style="display:none; background: var(--success); color: white; border: none; padding: 6px 12px; border-radius: 4px; font-weight: bold;">Finish & See Summary</button>
+            </div>
+            
+            <!-- Resume Rating Display -->
+            <div class="resume-rating-box" id="resume-rating-box" style="display:none; background:var(--bg-secondary); padding:1rem; border-radius:8px; border-left:4px solid var(--color-primary); margin-bottom:1rem;">
+              <h4 style="margin:0 0 0.5rem 0; color:var(--text-main);">📄 Resume Rating: <span id="resume-rating-score"></span>/5 (<span id="resume-rating-label"></span>)</h4>
+              <p style="margin:0; font-size:0.95rem; color:var(--text-muted);" id="resume-rating-feedback"></p>
+            </div>
+
+            <textarea id="solver-input" placeholder="Draft your answer explanation or code snippet here..."></textarea>
+            
+            <div class="solver-actions">
+              <button class="btn-submit-code" onclick="submitSolverAnswer()">Submit Solution →</button>
+            </div>
+
+            <!-- Detailed Feedback area -->
+            <div class="feedback-section" id="feedback-section" style="display:none">
+              <div class="feedback-header">
+                <h4>📊 Assessment Results</h4>
+                <div class="score-display">Score: <span id="feedback-score">0</span>/100</div>
+              </div>
+              <div class="feedback-body" id="feedback-body">
+                Feedback and suggestions will render here.
+              </div>
+              
+              <!-- Roadmaps -->
+              <div class="roadmaps-section" id="roadmaps-section" style="display:none">
+                <h5>📚 Recommended Study Roadmaps</h5>
+                <div class="roadmap-links" id="roadmap-links">
+                  <!-- recommendations -->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Loading Overlay (visible when fetching questions) -->
+  <div class="loading-overlay" id="loading-overlay" style="display:none">
+    <div class="loading-card">
+      <div class="loading-spinner"></div>
+      <p class="loading-text" id="loading-text">🔍 Searching RAG database for matching questions...</p>
+    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="footer-content">
+      <p class="footer-tagline">CrackYourPlacement · FAANG Interview Questions · Prepmaster MCQs</p>
+      <p class="footer-credit">Google Gemini & LangGraph Placement Preparation Agent</p>
+    </div>
+  </footer>
+
+  <!-- Toast Alert -->
+  <div class="toast" id="toast"></div>
+
+  <!-- Typing Indicator (hidden) -->
+  <div class="typing-indicator" id="typing-indicator" style="display:none">
+    <span></span><span></span><span></span>
+  </div>
+
+  <script src="app.js?v=2.1"></script>
+</body>
+</html>

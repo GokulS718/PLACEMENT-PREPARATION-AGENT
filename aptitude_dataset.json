@@ -1,0 +1,5978 @@
+[
+    {
+        "question_title": "Algebra Aptitude 1",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Microsoft",
+            "Google"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 2",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture",
+            "Google"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 3",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 4",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture",
+            "Google"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 5",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 6",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Google",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 7",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 8",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 9",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "Cognizant",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 10",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 11",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Google.",
+        "difficulty": "Hard",
+        "companies": [
+            "Google",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 12",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 13",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 14",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys",
+            "Microsoft",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 15",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS",
+            "Amazon",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 16",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Amazon",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 17",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 18",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 19",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 20",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 21",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 22",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 23",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 24",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 25",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 26",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 27",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 28",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 29",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 30",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 31",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Cognizant",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 32",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 33",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 34",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 35",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 36",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 37",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "Microsoft",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 38",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS",
+            "Microsoft",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 39",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta",
+            "Amazon",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 40",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 41",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys",
+            "Apple",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 42",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 43",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 44",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 45",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 46",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 47",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta",
+            "Infosys",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 48",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple",
+            "Amazon",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 49",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon",
+            "Meta",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 50",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 51",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 52",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 53",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 54",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 55",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 56",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple",
+            "Meta",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 57",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 58",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS",
+            "Apple",
+            "Google"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 59",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 60",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "Apple",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 61",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 62",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon",
+            "Infosys",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 63",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta",
+            "Wipro",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 64",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Apple",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 65",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "Apple",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 66",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 67",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 68",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 69",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple",
+            "Cognizant",
+            "Google"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 70",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 71",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 72",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple",
+            "Amazon",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 73",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 74",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "Amazon",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 75",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 76",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 77",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 78",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Infosys",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 79",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 80",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 81",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 82",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 83",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 84",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "Cognizant",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 85",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 86",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Google",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 87",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 88",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta",
+            "TCS",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 89",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 90",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Hard",
+        "companies": [
+            "Cognizant",
+            "Meta",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 91",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS",
+            "Cognizant",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 92",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 93",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 94",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "TCS",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 95",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 96",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 97",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 98",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "TCS",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 99",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 100",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS",
+            "Infosys",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 101",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 102",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "TCS",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 103",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google",
+            "Cognizant",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 104",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro",
+            "Meta",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 105",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta",
+            "Cognizant",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 106",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 107",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 108",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 109",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 110",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Google.",
+        "difficulty": "Hard",
+        "companies": [
+            "Google",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 111",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 112",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 113",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 114",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 115",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 116",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Wipro",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 117",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Google.",
+        "difficulty": "Hard",
+        "companies": [
+            "Google",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 118",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Hard",
+        "companies": [
+            "Cognizant",
+            "Microsoft",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 119",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 120",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 121",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 122",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 123",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 124",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google",
+            "TCS",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 125",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 126",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 127",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Google",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 128",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 129",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Hard",
+        "companies": [
+            "Cognizant",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 130",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 131",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 132",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 133",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "Google"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 134",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "TCS",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 135",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 136",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "Infosys",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 137",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple",
+            "TCS",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 138",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 139",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 140",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 141",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 142",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 143",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 144",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 145",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon",
+            "Infosys",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 146",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 147",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 148",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 149",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "Microsoft",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 150",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS",
+            "Wipro",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 151",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 152",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 153",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 154",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon",
+            "Cognizant",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 155",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 156",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 157",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 158",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple",
+            "Google",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 159",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 160",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta",
+            "Microsoft",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 161",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Wipro",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 162",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 163",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 164",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 165",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Hard",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 166",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "Cognizant",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 167",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 168",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 169",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple",
+            "Amazon",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 170",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 171",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Wipro",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 172",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Amazon",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 173",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 174",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro",
+            "Google"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 175",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Microsoft",
+            "Google"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 176",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 177",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 178",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 179",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 180",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 181",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 182",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant",
+            "Meta",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 183",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 184",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 185",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Google"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 186",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 187",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 188",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 189",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "Apple",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 190",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "TCS",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 191",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 192",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 193",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS",
+            "Google",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 194",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 195",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Meta",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 196",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 197",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Microsoft",
+            "Google"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 198",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 199",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 200",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Google.",
+        "difficulty": "Hard",
+        "companies": [
+            "Google",
+            "Infosys",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 201",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 202",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 203",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 204",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 205",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 206",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 207",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Meta",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 208",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys",
+            "Google",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 209",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 210",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 211",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 212",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 213",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Accenture",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 214",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 215",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys",
+            "Wipro",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 216",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple",
+            "Infosys",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 217",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 218",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 219",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 220",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon",
+            "Wipro",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 221",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Hard",
+        "companies": [
+            "Cognizant",
+            "TCS",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 222",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 223",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant",
+            "Accenture",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 224",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta",
+            "Infosys",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 225",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 226",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 227",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 228",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS",
+            "Apple",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 229",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta",
+            "TCS",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 230",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "TCS",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 231",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 232",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 233",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 234",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 235",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 236",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 237",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 238",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 239",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 240",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 241",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 242",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 243",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 244",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 245",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon",
+            "Google"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 246",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro",
+            "Microsoft",
+            "Google"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 247",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys",
+            "TCS",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 248",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "Meta",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 249",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Google.",
+        "difficulty": "Hard",
+        "companies": [
+            "Google",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 250",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 251",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Infosys",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 252",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 253",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 254",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 255",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 256",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 257",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 258",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 259",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 260",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 261",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 262",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 263",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 264",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple",
+            "Accenture",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 265",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 266",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Hard",
+        "companies": [
+            "Cognizant",
+            "Google",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 267",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 268",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 269",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 270",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 271",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "Apple",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 272",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 273",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Google.",
+        "difficulty": "Hard",
+        "companies": [
+            "Google",
+            "Wipro",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 274",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 275",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 276",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 277",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Hard",
+        "companies": [
+            "Cognizant",
+            "Meta",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 278",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 279",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple",
+            "Google",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 280",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 281",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 282",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google",
+            "Accenture",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 283",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 284",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 285",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Apple",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 286",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon",
+            "TCS",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 287",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon",
+            "Google",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 288",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 289",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 290",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 291",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 292",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 293",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Google",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 294",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 295",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys",
+            "Wipro",
+            "Google"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 296",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 297",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys",
+            "Amazon",
+            "Google"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 298",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 299",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 300",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 301",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Amazon",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 302",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 303",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Hard",
+        "companies": [
+            "Cognizant",
+            "TCS",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 304",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple",
+            "Microsoft",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 305",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Apple",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 306",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "Infosys",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 307",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS",
+            "Microsoft",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 308",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS",
+            "Amazon",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 309",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon",
+            "TCS",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 310",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 311",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 312",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 313",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 314",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 315",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 316",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 317",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 318",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 319",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta",
+            "Cognizant",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 320",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Microsoft",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 321",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 322",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 323",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 324",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple",
+            "Meta",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 325",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture",
+            "Google"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 326",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "Infosys",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 327",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Google.",
+        "difficulty": "Hard",
+        "companies": [
+            "Google",
+            "Cognizant",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 328",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 329",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 330",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 331",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 332",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "Infosys",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 333",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 334",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 335",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 336",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "Apple",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 337",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Hard",
+        "companies": [
+            "Cognizant",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 338",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "Wipro",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 339",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 340",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 341",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 342",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "Accenture",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 343",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 344",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 345",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "Google",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 346",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 347",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Microsoft",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 348",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 349",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 350",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 351",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 352",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Wipro",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 353",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 354",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 355",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 356",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 357",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 358",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 359",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 360",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Meta",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 361",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Google.",
+        "difficulty": "Hard",
+        "companies": [
+            "Google"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 362",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 363",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS",
+            "Cognizant",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 364",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 365",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Google",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 366",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 367",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 368",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon",
+            "Infosys",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 369",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 370",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 371",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 372",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple",
+            "Infosys",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 373",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 374",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 375",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 376",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 377",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 378",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 379",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 380",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 381",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Infosys",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 382",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 383",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 384",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 385",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 386",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys",
+            "Google",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 387",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Meta",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 388",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon",
+            "Accenture",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 389",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 390",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Google.",
+        "difficulty": "Hard",
+        "companies": [
+            "Google",
+            "Amazon",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 391",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys",
+            "Apple",
+            "Google"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 392",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 393",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 394",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 395",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 396",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Cognizant",
+            "Google"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 397",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 398",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 399",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 400",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 401",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "Google"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 402",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 403",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "Google"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 404",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google",
+            "Cognizant",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 405",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Microsoft",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 406",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 407",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Meta",
+            "Google"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 408",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 409",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon",
+            "Microsoft",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 410",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 411",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta",
+            "Amazon",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 412",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 413",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 414",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro",
+            "Microsoft",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 415",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 416",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 417",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon",
+            "Meta",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 418",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS",
+            "Accenture",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 419",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 420",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 421",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 422",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 423",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 424",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "TCS",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 425",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Google.",
+        "difficulty": "Hard",
+        "companies": [
+            "Google",
+            "Amazon",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 426",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS",
+            "Google",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 427",
+        "problem_description": "Solve this easy logical reasoning problem within the time limit. Often asked by Google.",
+        "difficulty": "Easy",
+        "companies": [
+            "Google"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 428",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 429",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 430",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 431",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Apple",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 432",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys",
+            "Microsoft",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 433",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 434",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Apple",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 435",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "TCS",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 436",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 437",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro",
+            "TCS",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 438",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 439",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 440",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Google",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 441",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Meta.",
+        "difficulty": "Medium",
+        "companies": [
+            "Meta",
+            "Microsoft",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 442",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 443",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 444",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys",
+            "Google"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 445",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 446",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Hard",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 447",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 448",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Easy",
+        "companies": [
+            "Amazon",
+            "Accenture",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 449",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 450",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 451",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 452",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft",
+            "Cognizant",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 453",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Google.",
+        "difficulty": "Medium",
+        "companies": [
+            "Google"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 454",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 455",
+        "problem_description": "Solve this easy percentages problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Easy",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 456",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys",
+            "Accenture",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 457",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Easy",
+        "companies": [
+            "Infosys",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 458",
+        "problem_description": "Solve this hard logical reasoning problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 459",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Google",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 460",
+        "problem_description": "Solve this hard data interpretation problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro",
+            "Meta",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 461",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by Apple.",
+        "difficulty": "Easy",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 462",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 463",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Apple",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 464",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 465",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 466",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Hard",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 467",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Google",
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 468",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Infosys.",
+        "difficulty": "Medium",
+        "companies": [
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 469",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 470",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Amazon",
+            "Google"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 471",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Hard",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 472",
+        "problem_description": "Solve this easy time & work problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Easy",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 473",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 474",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 475",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Apple.",
+        "difficulty": "Medium",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 476",
+        "problem_description": "Solve this hard ratios problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple",
+            "Meta",
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 477",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 478",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 479",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 480",
+        "problem_description": "Solve this easy probability problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Accenture",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 481",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 482",
+        "problem_description": "Solve this hard time & work problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Hard",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 483",
+        "problem_description": "Solve this easy algebra problem within the time limit. Often asked by TCS.",
+        "difficulty": "Easy",
+        "companies": [
+            "TCS",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 484",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Apple.",
+        "difficulty": "Hard",
+        "companies": [
+            "Apple",
+            "Google",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 485",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 486",
+        "problem_description": "Solve this hard probability problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Hard",
+        "companies": [
+            "Microsoft",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 487",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 488",
+        "problem_description": "Solve this medium data interpretation problem within the time limit. Often asked by Microsoft.",
+        "difficulty": "Medium",
+        "companies": [
+            "Microsoft",
+            "Infosys",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Logical Reasoning Aptitude 489",
+        "problem_description": "Solve this medium logical reasoning problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Medium",
+        "companies": [
+            "Accenture",
+            "Wipro",
+            "Amazon"
+        ],
+        "topic_tags": [
+            "Logical Reasoning"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 490",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 491",
+        "problem_description": "Solve this medium percentages problem within the time limit. Often asked by Cognizant.",
+        "difficulty": "Medium",
+        "companies": [
+            "Cognizant",
+            "TCS"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 492",
+        "problem_description": "Solve this easy ratios problem within the time limit. Often asked by Accenture.",
+        "difficulty": "Easy",
+        "companies": [
+            "Accenture",
+            "Microsoft",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Time & Work Aptitude 493",
+        "problem_description": "Solve this medium time & work problem within the time limit. Often asked by TCS.",
+        "difficulty": "Medium",
+        "companies": [
+            "TCS",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Time & Work"
+        ]
+    },
+    {
+        "question_title": "Percentages Aptitude 494",
+        "problem_description": "Solve this hard percentages problem within the time limit. Often asked by Meta.",
+        "difficulty": "Hard",
+        "companies": [
+            "Meta",
+            "Infosys",
+            "Apple"
+        ],
+        "topic_tags": [
+            "Percentages"
+        ]
+    },
+    {
+        "question_title": "Probability Aptitude 495",
+        "problem_description": "Solve this medium probability problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Accenture"
+        ],
+        "topic_tags": [
+            "Probability"
+        ]
+    },
+    {
+        "question_title": "Ratios Aptitude 496",
+        "problem_description": "Solve this medium ratios problem within the time limit. Often asked by Amazon.",
+        "difficulty": "Medium",
+        "companies": [
+            "Amazon",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Ratios"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 497",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Easy",
+        "companies": [
+            "Wipro",
+            "Microsoft",
+            "Meta"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Data Interpretation Aptitude 498",
+        "problem_description": "Solve this easy data interpretation problem within the time limit. Often asked by Meta.",
+        "difficulty": "Easy",
+        "companies": [
+            "Meta",
+            "Microsoft",
+            "Wipro"
+        ],
+        "topic_tags": [
+            "Data Interpretation"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 499",
+        "problem_description": "Solve this hard algebra problem within the time limit. Often asked by TCS.",
+        "difficulty": "Hard",
+        "companies": [
+            "TCS"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    },
+    {
+        "question_title": "Algebra Aptitude 500",
+        "problem_description": "Solve this medium algebra problem within the time limit. Often asked by Wipro.",
+        "difficulty": "Medium",
+        "companies": [
+            "Wipro",
+            "Infosys"
+        ],
+        "topic_tags": [
+            "Algebra"
+        ]
+    }
+]

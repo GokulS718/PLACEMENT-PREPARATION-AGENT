@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.db
+verify_all.py
+test_batch.py
+test_company_filter.py
+diagnostic.py
+test_session.py
+test_api.py
+scratch/
