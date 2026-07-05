@@ -1,4 +1,8 @@
 import os
+import sys
+# Add backend directory to path so relative imports work from root folder
+sys.path.append(os.path.dirname(os.path.abspath(__file__)))
+
 import json
 import logging
 from typing import Dict, Any, List, Optional
