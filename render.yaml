@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: placement-prep-backend
+    env: docker
+    dockerContext: backend
+    dockerfilePath: Dockerfile
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: true
+      - key: GOOGLE_API_KEY
+        sync: true
+      - key: PINECONE_API_KEY
+        sync: true
+      - key: PINECONE_ENVIRONMENT
+        value: us-east-1
+      - key: PINECONE_INDEX_NAME
+        value: placement-questions
+      - key: DATABASE_URL
+        value: sqlite:///./placement_prep.db
+      - key: GEMINI_MODEL
+        value: gemini-2.5-flash
+      - key: EMBEDDING_MODEL
+        value: models/gemini-embedding-001
