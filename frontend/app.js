@@ -9,9 +9,7 @@ let selectedSubject = "Coding";
 let prepLevel = "advanced";
 let chatHistory = [];
 let isMockMode = false;
-const apiEndpoint = window.location.hostname === "localhost" || window.location.hostname === "127.0.0.1" 
-  ? "http://localhost:8000"
-  : "https://placement-prep-erpk.onrender.com";
+const apiEndpoint = "https://placement-prep-erpk.onrender.com";
 
 // DOM Elements
 const authOverlay = document.getElementById("auth-overlay");
